@@ -1,0 +1,28 @@
+{
+  "name": "node-motion2mqtt",
+  "version": "1.0.0",
+  "description": "Linux-motion app wrapper to integrate it into mqtt automation environment, built on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskrs111/node-motion2mqtt.git"
+  },
+  "keywords": [
+    "linux-motion",
+    "mqtt",
+    "automation"
+  ],
+  "author": "Oscar Sanz Llopis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oskrs111/node-motion2mqtt/issues"
+  },
+  "homepage": "https://github.com/oskrs111/node-motion2mqtt#readme",
+  "dependencies": {
+    "mqtt": "^2.15.0",
+    "request": "^2.83.0"
+  }
+}
